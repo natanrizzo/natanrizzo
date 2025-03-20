@@ -6,8 +6,10 @@
 <a href="https://www.linkedin.com/in/natan-rizzo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: natan.br15@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   <em>
+ <p align="center">
+  <img src="https://media.giphy.com/media/3YK9ZYjSQaczdmBy5L/giphy.gif?cid=790b7611247r7nxouxhhutr789pj38e2xaguumfi5uyx6lfy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120px" />
 <p align="center">
-<img src="https://media.giphy.com/media/3YK9ZYjSQaczdmBy5L/giphy.gif?cid=790b7611247r7nxouxhhutr789pj38e2xaguumfi5uyx6lfy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px" /> Hello, my name is Natan Lima, a <b>final year</b> student of Software Analysis and Development from <a href="https://ifpr.edu.br/"> <b>Federal Institute of Paraná</b></a>. 
+ Hello, my name is Natan Lima, a <b>final year</b> student of Software Analysis and Development from <a href="https://ifpr.edu.br/"> <b>Federal Institute of Paraná</b></a>. 
 <br>
 I'm a autonomous <b>Full-Stack Software Developer</b> and a aspiring <b>Game Developer</b>.
     
